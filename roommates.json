@@ -1,0 +1,28 @@
+{
+  "roommates": [
+    {
+      "id": "5b0402",
+      "nombre": "Cassilda Ribeiro",
+      "correo": "cassilda.ribeiro@example.com",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    },
+    {
+      "id": "d3e8b1",
+      "nombre": "Andre Eid",
+      "correo": "andre.eid@example.com",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    },
+    {
+      "id": "6f4985",
+      "nombre": "Ashton Edwards",
+      "correo": "ashton.edwards@example.com",
+      "debe": 0,
+      "recibe": 0,
+      "total": 0
+    }
+  ]
+}
